@@ -1,0 +1,8 @@
+c:\users\lt5244\documents\visual studio 2017\Projects\TechnoJobsService\TechnoJobsService\bin\Debug\TechnoJobsService.exe.config
+c:\users\lt5244\documents\visual studio 2017\Projects\TechnoJobsService\TechnoJobsService\bin\Debug\TechnoJobsService.exe
+c:\users\lt5244\documents\visual studio 2017\Projects\TechnoJobsService\TechnoJobsService\bin\Debug\TechnoJobsService.pdb
+c:\users\lt5244\documents\visual studio 2017\Projects\TechnoJobsService\TechnoJobsService\obj\Debug\TechnoJobsService.csprojResolveAssemblyReference.cache
+c:\users\lt5244\documents\visual studio 2017\Projects\TechnoJobsService\TechnoJobsService\obj\Debug\TechnoJobsService.TechnoJobsService.resources
+c:\users\lt5244\documents\visual studio 2017\Projects\TechnoJobsService\TechnoJobsService\obj\Debug\TechnoJobsService.csproj.GenerateResource.Cache
+c:\users\lt5244\documents\visual studio 2017\Projects\TechnoJobsService\TechnoJobsService\obj\Debug\TechnoJobsService.exe
+c:\users\lt5244\documents\visual studio 2017\Projects\TechnoJobsService\TechnoJobsService\obj\Debug\TechnoJobsService.pdb
